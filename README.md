@@ -1,4 +1,4 @@
-Olá! Eu sou Willyam Santos!
+Olá! Eu sou Weslly Oliveira!
 🔭 Sou estudante do curso de Analise de Dados e o meu foco é o no desenvolvimento Full Stack e Data Science.
 🌱 Principais conhecimentos: Python, Microsoft Power BI, Sql, Angular, React, HTML e CSS padrão, Django
 👯 sou desenvolvedor iniciante 
